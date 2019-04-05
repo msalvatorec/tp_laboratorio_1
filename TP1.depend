@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554504853 source:/home/mathias/UTN/LABO1/TP1/TP1/main.c
+	<stdio.h>
+	<stdlib.h>
+
